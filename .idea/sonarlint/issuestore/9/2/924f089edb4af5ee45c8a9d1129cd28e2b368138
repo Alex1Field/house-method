@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+L	java:S106"+Replace this use of System.out by a logger.(şÏÌÇüÿÿÿÿ8ÿÁçºŞ1
+L	java:S106"+Replace this use of System.out by a logger.(ÏÕòúüÿÿÿÿ8ÂçºŞ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¶°ñÈ8…ÂçºŞ1
